@@ -1,9 +1,9 @@
 [
   {
-    "codigo": "ABC123",
-    "nombre": "Juan Pérez",
-    "curso": "Soporte Vital Básico",
-    "fecha": "03/08/2025",
+    "codigo": "57201",
+    "nombre": "Melina Lopez Suasnabar",
+    "curso": "Curso de tuberculosis en la práctica clínica ",
+    "fecha": "17/07/2025",
     "link": "https://ejemplo.com/certificados/juan_perez.pdf"
   },
   {
@@ -14,3 +14,4 @@
     "link": "https://ejemplo.com/certificados/maria_lopez.pdf"
   }
 ]
+
