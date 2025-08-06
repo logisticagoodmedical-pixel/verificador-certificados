@@ -1,0 +1,16 @@
+[
+  {
+    "codigo": "ABC123",
+    "nombre": "Juan Pérez",
+    "curso": "Soporte Vital Básico",
+    "fecha": "03/08/2025",
+    "link": "https://ejemplo.com/certificados/juan_perez.pdf"
+  },
+  {
+    "codigo": "XYZ456",
+    "nombre": "María López",
+    "curso": "Curso de ECG",
+    "fecha": "02/08/2025",
+    "link": "https://ejemplo.com/certificados/maria_lopez.pdf"
+  }
+]
