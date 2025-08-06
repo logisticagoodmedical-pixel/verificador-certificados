@@ -1,297 +1,296 @@
 [
-  {
-    "codigo": "GM2025-701",
-    "nombre": "Melina Lopez Suasnabar",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1RvPk7h6V6NNHCL9yRjUTSJl_pKAa3mmZ/view?usp=drive_link"
-  },
-  {
-    "codigo": "GM2025-702",
-    "nombre": "Juan Pablo Leon Iriarte",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1cRBd_1zDYApVohpp8EbZPOpiHL4Kj5B4/view?usp=drive_link"
-  },
     {
-      "codigo": "GM2025-703",
-      "nombre": "Ciro Gonzalo Zavala Gama",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1wUxHFHaydyGXbVvVvvPKPodTB_ttppVi/view?usp=drive_link"
-  },
+        "codigo": "GM2025-701",
+        "nombre": "Melina Lopez Suasnabar",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1RvPk7h6V6NNHCL9yRjUTSJl_pKAa3mmZ/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-704",
-      "nombre": "Victor Loayza Tasayco",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1-XACuaciUSxGc6qqt518O0m5xaBhfr6P/view?usp=drive_link"
-  },
+        "codigo": "GM2025-702",
+        "nombre": "Juan Pablo Leon Iriarte",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1cRBd_1zDYApVohpp8EbZPOpiHL4Kj5B4/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-705",
-      "nombre": "Diego Bilvao Huaynoca Mamani",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/17Vcu36qmx6oWOzc3wV6JP1Qyxl_XsNTU/view?usp=drive_link"
-  },
+        "codigo": "GM2025-703",
+        "nombre": "Ciro Gonzalo Zavala Gama",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1wUxHFHaydyGXbVvVvvPKPodTB_ttppVi/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-706",
-      "nombre": "Yubica Allison Leon Ramos",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1vTNvGspWVuU6wf0GZvN0_t5yxQuAvpia/view?usp=drive_link"
-  },
+        "codigo": "GM2025-704",
+        "nombre": "Victor Loayza Tasayco",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1-XACuaciUSxGc6qqt518O0m5xaBhfr6P/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-707",
-      "nombre": "Carlos Geraldo Fernández Narváez",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1QBm1UyFZVe6Su0xeoHMgCVKyGZQDrP9x/view?usp=drive_link"
-  },
+        "codigo": "GM2025-705",
+        "nombre": "Diego Bilvao Huaynoca Mamani",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/17Vcu36qmx6oWOzc3wV6JP1Qyxl_XsNTU/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-708",
-      "nombre": "Karem Melissa Aldazábal Barbarán",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1Ux_BO-0IAnUEV2XHEP0xZu1cosj3f3Sp/view?usp=drive_link"
-  },
+        "codigo": "GM2025-706",
+        "nombre": "Yubica Allison Leon Ramos",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1vTNvGspWVuU6wf0GZvN0_t5yxQuAvpia/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-709",
-      "nombre": "Phiero Armando Martínez Alcantara",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1mMZdn-ImyMwHb_sj5aqUs-uY1Ipkb5Hb/view?usp=drive_link"
-  },
+        "codigo": "GM2025-707",
+        "nombre": "Carlos Geraldo Fernández Narváez",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1QBm1UyFZVe6Su0xeoHMgCVKyGZQDrP9x/view?usp=drive_link"
+    },
     {
-      "codigo": "GM2025-710",
-      "nombre": "José Carlos Villavicencio Benites",
-      "curso": "Tuberculosis En la Práctica Clínica",
-      "fecha": "25/07/2025",
-      "link": "https://drive.google.com/file/d/1TXuTJwtcrwx22eExge9ScbHddkVajWwQ/view?usp=drive_link"
-  },
+        "codigo": "GM2025-708",
+        "nombre": "Karem Melissa Aldazábal Barbarán",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1Ux_BO-0IAnUEV2XHEP0xZu1cosj3f3Sp/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-711",
-    "nombre": "Jesus Alonso Yaya Delgado",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1x3H0RNzqQ1nyZ0koSeMyuY6Csqy9ShlB/view?usp=drive_link"
-  },
+        "codigo": "GM2025-709",
+        "nombre": "Phiero Armando Martínez Alcantara",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1mMZdn-ImyMwHb_sj5aqUs-uY1Ipkb5Hb/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-712",
-    "nombre": "Nataly Susana Vasquez Hinostroza",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1UzFGU4kAqQs_k0XAH6TtkF1vBZGTT4KI/view?usp=drive_link"
-  },
+        "codigo": "GM2025-710",
+        "nombre": "José Carlos Villavicencio Benites",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1TXuTJwtcrwx22eExge9ScbHddkVajWwQ/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-713",
-    "nombre": "Gladys Margarita Nolasco Santiago",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1zNYYceSq6LXNC8QwNOAky0ibyvq8KmVt/view?usp=drive_link"
-  },
+        "codigo": "GM2025-711",
+        "nombre": "Jesus Alonso Yaya Delgado",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1x3H0RNzqQ1nyZ0koSeMyuY6Csqy9ShlB/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-714",
-    "nombre": "Janeth Susy Cuyubamba Garcia",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1jIyRyWnUWoQ0OIQm9tyk92VYD-mnxptx/view?usp=drive_link"
-  },
+        "codigo": "GM2025-712",
+        "nombre": "Nataly Susana Vasquez Hinostroza",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1UzFGU4kAqQs_k0XAH6TtkF1vBZGTT4KI/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-715",
-    "nombre": "Roberto Gabriel Flores Tejada",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1c_-eEibBcuC-aecSCXj-y47IFM-vHQBK/view?usp=drive_link"
-  },
-  {
-    "codigo": "GM2025-716",
-    "nombre": "Karina Castillo Palermo",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1C59UmucFm4MLxRpZxawY4KWr0MEgBz8L/view?usp=drive_link"
-  },
+        "codigo": "GM2025-713",
+        "nombre": "Gladys Margarita Nolasco Santiago",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1zNYYceSq6LXNC8QwNOAky0ibyvq8KmVt/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-717",
-    "nombre": "Claudia More Verde",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/17075WkiDS-Pbw3-SbLhB5KfmTP-CIRe4/view?usp=drive_link"
-  },
+        "codigo": "GM2025-714",
+        "nombre": "Janeth Susy Cuyubamba Garcia",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1jIyRyWnUWoQ0OIQm9tyk92VYD-mnxptx/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-718",
-    "nombre": "Fernando Renzo Garayar Burneo",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1yiPWESTta63emMeaoFJ4Vbe4Vlaa-X6X/view?usp=drive_link"
-  },
+        "codigo": "GM2025-715",
+        "nombre": "Roberto Gabriel Flores Tejada",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1c_-eEibBcuC-aecSCXj-y47IFM-vHQBK/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-719",
-    "nombre": "Cinthia Elvira Zambrano Gomez",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1bjg1VmY4XgOODEZvmOkXqjNLFoBoJvMH/view?usp=drive_link"
-  },
+        "codigo": "GM2025-716",
+        "nombre": "Karina Castillo Palermo",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1C59UmucFm4MLxRpZxawY4KWr0MEgBz8L/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-720",
-    "nombre": "Vivian Bogado Chavez",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1PAY07rb_PeUx6L7h5XCZ-9TX2X1jWZzs/view?usp=drive_link"
-  },
+        "codigo": "GM2025-717",
+        "nombre": "Claudia More Verde",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/17075WkiDS-Pbw3-SbLhB5KfmTP-CIRe4/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-721",
-    "nombre": "Evelyng Mirella Serveleón Nieto",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1uLDDA95OpaSa94isn3hx-RcxdbldZc0m/view?usp=drive_link"
-  },
+        "codigo": "GM2025-718",
+        "nombre": "Fernando Renzo Garayar Burneo",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1yiPWESTta63emMeaoFJ4Vbe4Vlaa-X6X/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-722",
-    "nombre": "Godofredo Caro Agüero",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1cStwq8fhA040v5rK3D-8MtQ_tYSx739n/view?usp=drive_link"
-  },
+        "codigo": "GM2025-719",
+        "nombre": "Cinthia Elvira Zambrano Gomez",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1bjg1VmY4XgOODEZvmOkXqjNLFoBoJvMH/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-723",
-    "nombre": "Jessica Rubi Reynel Chávez",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/16S-9S9za4jLCL09MdmenGzf5StjkkWA5/view?usp=drive_link"
-  },
+        "codigo": "GM2025-720",
+        "nombre": "Vivian Bogado Chavez",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1PAY07rb_PeUx6L7h5XCZ-9TX2X1jWZzs/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-724",
-    "nombre": "Roxana Rita Cavani Rojas",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1JsSwgJMKr4VKc-Si3Iv9YFu406izSIB6/view?usp=drive_link"
-  },
+        "codigo": "GM2025-721",
+        "nombre": "Evelyng Mirella Serveleón Nieto",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1uLDDA95OpaSa94isn3hx-RcxdbldZc0m/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-725",
-    "nombre": "Anny Estéfany Vidal Viera",
-    "curso": "Soporte Vital Básico",
-    "fecha": "03/08/2025",
-    "link": "https://drive.google.com/file/d/1_CA-EFcWzyvBGpSd2rcMY6AUR0yaIIhu/view?usp=drive_link"
-  },
+        "codigo": "GM2025-722",
+        "nombre": "Godofredo Caro Agüero",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1cStwq8fhA040v5rK3D-8MtQ_tYSx739n/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-726",
-    "nombre": "Zocimo Richard Condori Cari",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1l8hWtVsvmznOgNdARc8Hx4684-NFT72G/view?usp=drive_link"
-  },
+        "codigo": "GM2025-723",
+        "nombre": "Jessica Rubi Reynel Chávez",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/16S-9S9za4jLCL09MdmenGzf5StjkkWA5/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-727",
-    "nombre": "Gloria Milagros Medina Santiago",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1UNgUa3XeSnn74fhN5w2kS21kz1RYDFMW/view?usp=drive_link"
-  },
+        "codigo": "GM2025-724",
+        "nombre": "Roxana Rita Cavani Rojas",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1JsSwgJMKr4VKc-Si3Iv9YFu406izSIB6/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-728",
-    "nombre": "Ariel Carlos Cornejo Ortiz",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1qhA3umE_ll9d_rZU28AdQnl92QV1fW1t/view?usp=drive_link"
-  },
+        "codigo": "GM2025-725",
+        "nombre": "Anny Estéfany Vidal Viera",
+        "curso": "Soporte Vital Básico",
+        "fecha": "03/08/2025",
+        "link": "https://drive.google.com/file/d/1_CA-EFcWzyvBGpSd2rcMY6AUR0yaIIhu/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-729",
-    "nombre": "Joseph Andres Mendoza Calle",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1hXddpkC7ma6nt-hVT4sxnxIRx1jI3mCz/view?usp=drive_link"
-  },
+        "codigo": "GM2025-726",
+        "nombre": "Zocimo Richard Condori Cari",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1l8hWtVsvmznOgNdARc8Hx4684-NFT72G/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-730",
-    "nombre": "Gonzalo Caro Alvarado",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/120mT9GnMO0bI-tWr2oZD6DqeVXOr8FjJ/view?usp=drive_link"
-  },
+        "codigo": "GM2025-727",
+        "nombre": "Gloria Milagros Medina Santiago",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1UNgUa3XeSnn74fhN5w2kS21kz1RYDFMW/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-731",
-    "nombre": "Sergio Huber Lujan Garcia",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1BrbYLP67YPghYBOZgpdk1PlR-X7SkrLZ/view?usp=drive_link"
-  },
+        "codigo": "GM2025-728",
+        "nombre": "Ariel Carlos Cornejo Ortiz",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1qhA3umE_ll9d_rZU28AdQnl92QV1fW1t/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-732",
-    "nombre": "Alex Hinostroza Huamán",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1USiIW7XAkEP3cCdDbDrLw7wyxiafc8Th/view?usp=drive_link"
-  },
+        "codigo": "GM2025-729",
+        "nombre": "Joseph Andres Mendoza Calle",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1hXddpkC7ma6nt-hVT4sxnxIRx1jI3mCz/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-733",
-    "nombre": "Enrique Alfonso De La Cruz Chuquilin",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1ipQz6dH3cHeOOps4YbvCMeYf05wlRTDt/view?usp=drive_link"
-  },
+        "codigo": "GM2025-730",
+        "nombre": "Gonzalo Caro Alvarado",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/120mT9GnMO0bI-tWr2oZD6DqeVXOr8FjJ/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-734",
-    "nombre": "Gilda Maria Bueno Bueno",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1janYEMx7g8MGhAih-1v-csmVfGpYj_0b/view?usp=drive_link"
-  },
+        "codigo": "GM2025-731",
+        "nombre": "Sergio Huber Lujan Garcia",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1BrbYLP67YPghYBOZgpdk1PlR-X7SkrLZ/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-735",
-    "nombre": "Diana Valenzuela López",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1PELfx3-Smq6umz5m0TSiAO41F3rMsMh8/view?usp=drive_link"
-  },
+        "codigo": "GM2025-732",
+        "nombre": "Alex Hinostroza Huamán",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1USiIW7XAkEP3cCdDbDrLw7wyxiafc8Th/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-736",
-    "nombre": "Lucia Victoria Retuerto Riquelme",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1qsxelyYChoPvMnZ6Z5qVR4NST1R9_p9P/view?usp=drive_link"
-  },
+        "codigo": "GM2025-733",
+        "nombre": "Enrique Alfonso De La Cruz Chuquilin",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1ipQz6dH3cHeOOps4YbvCMeYf05wlRTDt/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-737",
-    "nombre": "José Marcelino Vázquez Millán",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1hqIKpp4AxLEUe2oOCnVfP1QxQxYXX8em/view?usp=drive_link"
-  },
+        "codigo": "GM2025-734",
+        "nombre": "Gilda Maria Bueno Bueno",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1janYEMx7g8MGhAih-1v-csmVfGpYj_0b/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-738",
-    "nombre": "Henry Dennis Huamanlazo Ramírez",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1rTOlKfOcPAHNTaCxdZrwod3AjspdQE6F/view?usp=drive_link"
-  },
+        "codigo": "GM2025-735",
+        "nombre": "Diana Valenzuela López",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1PELfx3-Smq6umz5m0TSiAO41F3rMsMh8/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-739",
-    "nombre": "Amalyn Claudio Cruz",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1jspNOZfvztolv7JtBC7eUxh4WkrYbJmp/view?usp=drive_link"
-  },
+        "codigo": "GM2025-736",
+        "nombre": "Lucia Victoria Retuerto Riquelme",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1qsxelyYChoPvMnZ6Z5qVR4NST1R9_p9P/view?usp=drive_link"
+    },
     {
-    "codigo": "GM2025-740",
-    "nombre": "Idaura Huaman Calle",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1HNFEB57hUNby2hbHNo7Kn-vW3ybkJrXr/view?usp=drive_link"
-  }
-     {
-    "codigo": "GM2025-741",
-    "nombre": "César Aníbal Flores Huamán",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/14Q2OO5NWDE5e3SY4FKlQmZ0j8HoIPcg_/view?usp=drive_link"
-  }
-     {
-    "codigo": "GM2025-742",
-    "nombre": "Jhohan Miguel Huamán Florian ",
-    "curso": "Tuberculosis En la Práctica Clínica",
-    "fecha": "25/07/2025",
-    "link": "https://drive.google.com/file/d/1k_9IzFJ6EnjWRn8_69rEsg9YZV8s0UC8/view?usp=drive_link"
-  }
+        "codigo": "GM2025-737",
+        "nombre": "José Marcelino Vázquez Millán",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1hqIKpp4AxLEUe2oOCnVfP1QxQxYXX8em/view?usp=drive_link"
+    },
+    {
+        "codigo": "GM2025-738",
+        "nombre": "Henry Dennis Huamanlazo Ramírez",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1rTOlKfOcPAHNTaCxdZrwod3AjspdQE6F/view?usp=drive_link"
+    },
+    {
+        "codigo": "GM2025-739",
+        "nombre": "Amalyn Claudio Cruz",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1jspNOZfvztolv7JtBC7eUxh4WkrYbJmp/view?usp=drive_link"
+    },
+    {
+        "codigo": "GM2025-740",
+        "nombre": "Idaura Huaman Calle",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1HNFEB57hUNby2hbHNo7Kn-vW3ybkJrXr/view?usp=drive_link"
+    },
+    {
+        "codigo": "GM2025-741",
+        "nombre": "César Aníbal Flores Huamán",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/14Q2OO5NWDE5e3SY4FKlQmZ0j8HoIPcg_/view?usp=drive_link"
+    },
+    {
+        "codigo": "GM2025-742",
+        "nombre": "Jhohan Miguel Huamán Florian ",
+        "curso": "Tuberculosis En la Práctica Clínica",
+        "fecha": "25/07/2025",
+        "link": "https://drive.google.com/file/d/1k_9IzFJ6EnjWRn8_69rEsg9YZV8s0UC8/view?usp=drive_link"
+    }
 ]
-
